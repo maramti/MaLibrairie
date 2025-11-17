@@ -1,4 +1,4 @@
-# 📚 MyBookDB – REST API en Node.js & MongoDB
+# MyBookDB – REST API en Node.js & MongoDB
 
 Une API REST simple permettant de gérer une collection de livres  
 (Ajout, suppression, modification, récupération).
@@ -7,7 +7,7 @@ Ce projet a été développé en utilisant **Node.js**, **Express**, et **MongoD
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Ajouter un livre  
 - Supprimer un livre  
@@ -17,7 +17,7 @@ Ce projet a été développé en utilisant **Node.js**, **Express**, et **MongoD
 
 ---
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 
 - **Node.js**
 - **Express.js**
