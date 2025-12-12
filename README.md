@@ -1,6 +1,6 @@
 Ma Librairie – MERN CRUD App
 
-Une application MERN (MongoDB, Express, React, Node.js) pour gérer une bibliothèque personnelle. L’utilisateur peut ajouter, consulter, rechercher, modifier et supprimer des livres.
+Une application MERN (MongoDB, Express, React, Node.js) pour gérer une bibliothèque personnelle : ajouter un livre, consulter la liste, modifier ses informations ou le supprimer. Pour exposer ces opérations sur le web, il y a une API RESTful, qui transforme chaque action CRUD en requêtes HTTP : POST pour créer, GET pour lire, PATCH pour mettre à jour et DELETE pour supprimer.
 
 1-Fonctionnalités : Gestion des livres (CRUD)
 
