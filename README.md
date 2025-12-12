@@ -67,3 +67,27 @@ author : nom de l’auteur
 genre : genre du livre
 
 status : état du livre (terminé, en cours de lecture, en pause, va lire)
+
+4-Technologies utilisées :
+
+Frontend : React.js, Axios, CSS
+
+Backend : Node.js, Express.js, cors
+
+Base de données : MongoDB Atlas
+
+Outils : Postman pour tester les API
+
+5-Améliorations possibles
+
+Ajouter authentification utilisateur (JWT)
+
+Gestion multi-utilisateurs et librairies personnelles
+
+Interface plus complexe avec React Router
+
+Notifications ou messages de succès pour chaque action
+
+Tri et filtres avancés sur les livres
+
+Ajout de couverture de livre et autres métadonnées
